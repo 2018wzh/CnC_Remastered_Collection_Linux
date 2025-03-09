@@ -1,0 +1,22 @@
+﻿  STARTUP.CPP
+D:\Code\cpp\CnC_Remastered_Collection-master\REDALERT\function.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“STARTUP.CPP”)
+  
+D:\Code\cpp\CnC_Remastered_Collection-master\REDALERT\language.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“STARTUP.CPP”)
+  
+D:\Code\cpp\CnC_Remastered_Collection-master\REDALERT\gadget.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“STARTUP.CPP”)
+  
+D:\Code\cpp\CnC_Remastered_Collection-master\REDALERT\function.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“STARTUP.CPP”)
+  
+D:\Code\cpp\CnC_Remastered_Collection-master\REDALERT\function.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“STARTUP.CPP”)
+  
+D:\Code\cpp\CnC_Remastered_Collection-master\REDALERT\function.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“STARTUP.CPP”)
+  
+    正在创建库 ..\bin\Win32\RedAlert.lib 和对象 ..\bin\Win32\RedAlert.exp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  RedAlert.vcxproj -> D:\Code\cpp\CnC_Remastered_Collection-master\bin\Win32\RedAlert.exe
